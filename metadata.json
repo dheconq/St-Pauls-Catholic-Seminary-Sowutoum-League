@@ -1,0 +1,7 @@
+{
+  "name": "St. Paul's Seminary Sowtuomian Hub",
+  "description": "A comprehensive digital companion for St. Paul's Catholic Seminary, featuring the Sowtuomian League tables, AI-powered image editing, and professional video generation with Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
